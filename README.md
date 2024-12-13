@@ -7,6 +7,7 @@ Preparation
 ex.)
 >$ C:\Users\user1\sapmle1> .venv\Scripts\activate.ps1
 >“$pip innstall nuitka”
+
 2.Install C compiler
 Install according to the official manual.
 https://nuitka.net/user-documentation/user-manual.html
