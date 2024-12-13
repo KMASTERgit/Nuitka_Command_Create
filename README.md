@@ -4,14 +4,15 @@ A tool to assist in creating commands
 
 Preparation
 1. Install Nuitka (recommended to install in a virtual environment)
-ex.)$ C:\Users\user1\sapmle1> .venv\Scripts\activate.ps1
-“$pip innstall nuitka”
+ex.)
+>$ C:\Users\user1\sapmle1> .venv\Scripts\activate.ps1
+>“$pip innstall nuitka”
 2.Install C compiler
 Install according to the official manual.
 https://nuitka.net/user-documentation/user-manual.html
 3. Create code in Python
 At this time, please create the code with the following main function in Python
->>"if __name__ == “__main__”:".
+>"if __name__ == “__main__”:".
 
 #How to use
 1. Start this application
