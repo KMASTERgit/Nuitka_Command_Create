@@ -12,6 +12,7 @@ ex.)
 2.Install C compiler
 Install according to the official manual.
 https://nuitka.net/user-documentation/user-manual.html
+
 3. Create code in Python
 At this time, please create the code with the following main function in Python
 >"if __name__ == “__main__”:".
@@ -19,8 +20,10 @@ At this time, please create the code with the following main function in Python
 #How to use
 1. Start this application
 Select the python file (the main function file) you created in the preparation in “SelectMainPythonFile”.
-3. Customize as you like as the rest, such as hiding the console, is optional.
-4. Click “EditCommand” button to generate command.
+
+2. Customize as you like as the rest, such as hiding the console, is optional.
+ 
+3. Click “EditCommand” button to generate command.
 Copy the command from “Edit_Command_Image” and paste it into the prompt
 
 Sorry!
