@@ -6,6 +6,7 @@ Preparation
 1. Install Nuitka (recommended to install in a virtual environment)
 ex.)
 >$ C:\Users\user1\sapmle1> .venv\Scripts\activate.ps1
+
 >“$pip innstall nuitka”
 
 2.Install C compiler
