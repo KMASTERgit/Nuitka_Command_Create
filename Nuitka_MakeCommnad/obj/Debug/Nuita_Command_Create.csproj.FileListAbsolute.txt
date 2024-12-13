@@ -1,0 +1,4 @@
+D:\cumpany\program\C#\Nuita_Command_Create\Nuita_Command_Create\obj\Debug\Nuita_Command_Create.csproj.AssemblyReference.cache
+D:\cumpany\program\C#\Nuita_Command_Create\Nuita_Command_Create\obj\Debug\Nuita_Command_Create.Properties.Resources.resources
+D:\cumpany\program\C#\Nuita_Command_Create\Nuita_Command_Create\obj\Debug\Nuita_Command_Create.csproj.GenerateResource.cache
+D:\cumpany\program\C#\Nuita_Command_Create\Nuita_Command_Create\obj\Debug\Nuita_Command_Create.csproj.CoreCompileInputs.cache

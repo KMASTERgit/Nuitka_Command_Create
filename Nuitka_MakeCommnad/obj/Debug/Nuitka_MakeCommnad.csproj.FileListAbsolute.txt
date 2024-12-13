@@ -1,0 +1,12 @@
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\bin\Debug\System.Management.Automation.dll
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\obj\Debug\Nuitka_MakeCommnad.csproj.AssemblyReference.cache
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\obj\Debug\Nuitka_MakeCommnad.Form1.resources
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\obj\Debug\Nuitka_MakeCommnad.Properties.Resources.resources
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\obj\Debug\Nuitka_MakeCommnad.csproj.GenerateResource.cache
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\obj\Debug\Nuitka_MakeCommnad.csproj.CoreCompileInputs.cache
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\obj\Debug\Nuitka_M.9B2CFC2E.Up2Date
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\bin\Debug\Nuitka_Command_Create.exe.config
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\bin\Debug\Nuitka_Command_Create.exe
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\bin\Debug\Nuitka_Command_Create.pdb
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\obj\Debug\Nuitka_Command_Create.exe
+D:\cumpany\program\C#\Nuitka_MakeCommnad\Nuitka_MakeCommnad\obj\Debug\Nuitka_Command_Create.pdb
