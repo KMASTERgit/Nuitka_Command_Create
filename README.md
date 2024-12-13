@@ -11,7 +11,7 @@ Install according to the official manual.
 https://nuitka.net/user-documentation/user-manual.html
 3. Create code in Python
 At this time, please create the code with the following main function in Python
-if __name__ == “__main__”:.
+>>"if __name__ == “__main__”:".
 
 #How to use
 1. Start this application
